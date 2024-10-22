@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: a284e61cf7cc0c74581140c4d33558f0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - igaguriPreHab: {fileID: 8619191558850521548, guid: bea8af01b0d54a047b8e49fc61a6c198, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
